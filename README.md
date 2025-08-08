@@ -10,9 +10,11 @@ I am passionate about Digital Design and VLSI Verification, with a strong founda
 Despite the 2024 market slowdown, I continued to gain real-time experience in RTL design and verification, working on protocols like PCIe Gen 5.0, AXI, APB, SPI, and Interrupt Controller.
 
 Skills & Experience
-Languages: C, C++, Python, Verilog, SystemVerilog, UVM
+Languages: Verilog, SystemVerilog, UVM, Unix, Linux, Python, C, Java
 
-Domains: Digital Design, RTL Design, Functional Verification
+Scripting Language: Shell, Perl, Python
+
+Domains: RTL Design, Design Verification
 
 Protocols: PCIe, AXI, APB, SPI, I2C, UART
 
