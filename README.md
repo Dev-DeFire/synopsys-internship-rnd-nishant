@@ -1,5 +1,6 @@
 # synopsys-internship-rnd-nishant
 Synopsys R&D Engineering Internship – Application
+
 Name: Nishant Nitin Mishra
 College: NIT Mizoram (B.Tech ECE, 2024) – CGPA 8.79
 
